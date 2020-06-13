@@ -8,7 +8,10 @@ DFC605-16
 <img src = "https://ww.namu.la/s/474f785f24ebc734e596a04336e5d2d9145056572659330cb352b140171bb0193c6d3186f868994520e0a5fa13efec17e735c4c8e78850ba2c8da2a9ab353cc59b70badbd89b223c2f6bd4ddaf7421f2060a3f2df0833e8cd9988cae515407ce3806e667c14dad208600b5cb969c1ff2"></img>
 <p>
 
-<B>예상결과</B>
+<B>예상결과1</B>
 
 <img src = "https://github.com/jundeyo/DFC605-16/blob/master/predict_result.png"></img><p>
+  
+<B>예상결과2</B>
+
 <img src = "https://github.com/jundeyo/DFC605-16/blob/master/predict_result1.PNG"></img>
