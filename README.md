@@ -10,4 +10,5 @@ DFC605-16
 
 <B>예상결과</B>
 
-<img src = "https://github.com/jundeyo/DFC605-16/blob/master/predict_result.png"></img>
+<img src = "https://github.com/jundeyo/DFC605-16/blob/master/predict_result.png"></img><p>
+<img src = "https://github.com/jundeyo/DFC605-16/blob/master/predict_result1.PNG"></img>
